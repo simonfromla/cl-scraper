@@ -1,6 +1,9 @@
 client_secret.json
 info.txt
 
+# ipython python3 kernel
+share
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
